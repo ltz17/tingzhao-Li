@@ -1,23 +1,20 @@
-# Hi, I'm Zhang San 👋
+# Hi, I’m Li Tingzhao 👋
 
 ## About Me
-- 🎓 Background: Semiconductor / Advanced Packaging
-- 🔬 Focus: 3D IC, HBM, TSV, Hybrid Bonding
-- 💼 Current role: R&D Engineer
-- 📫 Contact: your-email@example.com
+- 🎓 **Background:** Semiconductor Technology & Computer Vision  
+- 🔬 **Focus Areas:** Semiconductor AI, Intelligent Manufacturing, Computer Vision, 3D Vision, Deep Learning, and Machine Learning  
+- 💼 **Current Role:** AI Engineer  
+- 📫 **Contact:** tingzhao.li@mail.ustc.edu.cn  
 
-## Skills
-- Advanced Packaging
-- Python / Data Analysis
-- Project Management
-- Technical Research
+## Expertise
+- Semiconductor AI and Intelligent Automation  
+- Computer Vision and 3D Vision  
+- Deep Learning / Machine Learning  
+- Python Development and Data Analytics  
+- Technical Research and Project Management  
 
 ## Featured Projects
-- [Project A](https://github.com/your-username/project-a)
-- [Project B](https://github.com/your-username/project-b)
+*Coming soon.*
 
 ## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+*Coming soon.*
